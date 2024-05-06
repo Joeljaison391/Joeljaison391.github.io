@@ -23,10 +23,38 @@ Enthusiastic final-year B.Tech student eager to take on innovative and challengi
 - Top 10 Runner-up project at Refine Hackathon 2023.
 - [Link to project](https://dev.to/joeljaison394/librify-modern-library-management-with-refine-42bg)
 
-### KeyMomentum
-- Typing speed testing utility website with customizable levels.
-- Technologies: React.js, TypeScript, Tailwind CSS.
-- [Link to project](https://keymomentum.vercel.app/)
+### KeyMomentum 🚀
+
+![KEYMOMENTUM Logo](https://res.cloudinary.com/dxraggwp4/image/upload/v1702274295/KEYMOMENTUM/Github-KEYMOMENTUM-logo_sjn5yf.png)
+
+KEYMOMENTUM is an exciting typing speed checking project designed to elevate your typing skills while providing an engaging and challenging experience.
+
+## Key Features
+
+- 🎯 **Speed Challenges:** Test your typing speed with exciting challenges tailored for all skill levels.
+- 🚥 **Multiple Difficulty Levels:** Choose from various difficulty levels to match your typing prowess.
+- 🌐 **Real-time Feedback:** Receive instant feedback on accuracy and words per minute (WPM).
+- 🎨 **Interactive Interface:** Immerse yourself in a visually appealing and user-friendly typing environment.
+
+## Technologies Used
+
+- React.js
+- TypeScript
+- Tailwind CSS
+
+## Deployment
+
+The project is deployed using Vercel. You can access it [here](https://keymomentum.vercel.app/).
+
+## Additional Information
+
+KEYMOMENTUM is continuously evolving, with new features and improvements being added regularly. Stay tuned for updates!
+
+## Screenshots
+
+![Screenshot 1](https://res.cloudinary.com/dxraggwp4/image/upload/v1702274295/KEYMOMENTUM/screenshot1.png)
+![Screenshot 2](https://res.cloudinary.com/dxraggwp4/image/upload/v1702274295/KEYMOMENTUM/screenshot2.png)
+
 
 ## Education
 - Bachelor of Engineering in Computer Science
