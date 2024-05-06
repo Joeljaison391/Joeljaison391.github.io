@@ -112,12 +112,16 @@ StarBoard is a productivity management tool designed to help you effortlessly or
 ---
 
 ## Skills
+
 ### Frontend
 - React.js, Svelte, Next.js, Firebase, Appwrite, Material UI, Supabase, Tailwind CSS
+  
 ### Backend
 - Node.js, Express.js, MongoDB, MySQL
+  
 ### Cloud
 - Azure
+  
 ### Other
 - REST API, Git, GitHub, VS Code Extension, Telegram Bot, Figma, Chrome Extension
 
