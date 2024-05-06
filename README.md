@@ -1,13 +1,19 @@
 # Joel Jaison
 
+---
+
 ## Contact
 - Phone: +91 7558884238
 - Email: joeljaison394@gmail.com
 - LinkedIn: [linkedin.com/in/joeljaison391](linkedin.com/in/joeljaison391)
 - GitHub: [github.com/JoelJaison394](github.com/JoelJaison394)
 
+---
+
 ## Objective
 Enthusiastic final-year B.Tech student eager to take on innovative and challenging projects.
+
+---
 
 ## Projects
 
@@ -17,6 +23,11 @@ Enthusiastic final-year B.Tech student eager to take on innovative and challengi
 - Winner of Most Liked Project in Devpost Project Showcase at Securathon Hackathon 2023.
 - [Link to project](https://medcare-woad.vercel.app/)
 
+#### Screenshots
+![Screenshot 1](https://res.cloudinary.com/practicaldev/image/fetch/s--Hd6k-zFe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cydpu5xrlnma69wfwzxe.png)
+![Screenshot 2](https://res.cloudinary.com/practicaldev/image/fetch/s--nZAPBSIs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8or15c7i1za2x4buxvmg.png)
+![Screenshot 2](https://res.cloudinary.com/practicaldev/image/fetch/s--QgcnsCTU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/re9wc0zc7yu1riejgi2j.png)
+
 ### Librify
 - Library management application to keep track of books, stocks, and other details of a library.
 - Technologies: Refine, TypeScript, Tailwind CSS, Material UI, Supabase.
@@ -24,9 +35,8 @@ Enthusiastic final-year B.Tech student eager to take on innovative and challengi
 - [Link to project](https://dev.to/joeljaison394/librify-modern-library-management-with-refine-42bg)
 
 #### Screenshots
-![Screenshot 1](https://res.cloudinary.com/practicaldev/image/fetch/s--Hd6k-zFe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cydpu5xrlnma69wfwzxe.png)
-![Screenshot 2](https://res.cloudinary.com/practicaldev/image/fetch/s--nZAPBSIs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8or15c7i1za2x4buxvmg.png)
-![Screenshot 2](https://res.cloudinary.com/practicaldev/image/fetch/s--QgcnsCTU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/re9wc0zc7yu1riejgi2j.png)
+![Screenshot 1](https://cdn.hashnode.com/res/hashnode/image/upload/v1702448102257/88a7c535-c22b-4da2-a23a-ab5a7b8572b4.png?auto=compress,format&format=webp)
+![Screenshot 2](https://cdn.hashnode.com/res/hashnode/image/upload/v1702448080199/ffb2396d-40ea-4e9d-a7da-d6671d0173d1.png?auto=compress,format&format=webp)
 
 ### KeyMomentum 🚀
 ![KEYMOMENTUM Logo](https://res.cloudinary.com/dxraggwp4/image/upload/v1702274295/KEYMOMENTUM/Github-KEYMOMENTUM-logo_sjn5yf.png)
@@ -77,10 +87,14 @@ StarBoard is a productivity management tool designed to help you effortlessly or
 ![StarBoard Screenshot](https://res.cloudinary.com/dxraggwp4/image/upload/v1709318505/StarBoard/clf4t5twwmnaxfcntg4s.png)
 ![StarBoard Screenshot](https://res.cloudinary.com/dxraggwp4/image/upload/v1709318505/StarBoard/li2yxogni3fxecxz4ngq.png)
 
+---
+
 ## Education
 - Bachelor of Engineering in Computer Science
 - Sahrdaya College Of Engineering and Technology, 2021 - 2025
 - CGPA: 7.48
+
+---
 
 ## Experience
 
@@ -95,6 +109,8 @@ StarBoard is a productivity management tool designed to help you effortlessly or
 - Role: Tech Lead
 - Managed the technical aspects of the club.
 
+---
+
 ## Skills
 ### Frontend
 - React.js, Svelte, Next.js, Firebase, Appwrite, Material UI, Supabase, Tailwind CSS
@@ -105,12 +121,15 @@ StarBoard is a productivity management tool designed to help you effortlessly or
 ### Other
 - REST API, Git, GitHub, VS Code Extension, Telegram Bot, Figma, Chrome Extension
 
+---
+
 ## Interests
 - Blogging: [dev.to/joeljaison394](dev.to/joeljaison394)
 - Teaching: Postman student expert
 - Drawing
 
+---
+
 ## Certifications
 - Responsive Web Design from freeCodeCamp
 - MongoDB CRUD Operations from MongoDB University
-
