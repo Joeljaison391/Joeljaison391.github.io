@@ -114,15 +114,15 @@ StarBoard is a productivity management tool designed to help you effortlessly or
 ## Skills
 
 ### Frontend
-- ![React.js](https://img.icons8.com/office/40/react.png) React.js
-- ![Svelte](https://img.icons8.com/doodle/48/svetle.png) Svelte
-- ![Svelte](https://img.icons8.com/color/48/nextjs.png) Next.js
-- ![Svelte](https://img.icons8.com/color/48/firebase.png) Firebase
-- ![Svelte](https://appwrite.io/assets/logomark/logo.svg) Appwrite
-- ![Svelte](https://static-00.iconduck.com/assets.00/material-ui-icon-512x406-fhnu85xg.png) Material UI
-- ![Svelte](https://appwrite.io/assets/logomark/logo.svg) Appwrite
-- ![Svelte](https://appwrite.io/assets/logomark/logo.svg) Appwrite
-- Material UI, Supabase, Tailwind CSS
+- ![React.js](https://img.icons8.com/office/40/react.png){:height="40px" width="40px"} React.js
+- ![Svelte](https://img.icons8.com/doodle/40/svetle.png){:height="40px" width="40px"} Svelte
+- ![Next.js](https://img.icons8.com/color/40/nextjs.png){:height="40px" width="40px"} Next.js
+- ![Firebase](https://img.icons8.com/color/40/firebase.png){:height="40px" width="40px"} Firebase
+- ![Appwrite](https://appwrite.io/assets/logomark/logo.svg){:height="40px" width="40px"} Appwrite
+- ![Material UI](https://static-00.iconduck.com/assets.00/material-ui-icon-512x406-fhnu85xg.png){:height="40px" width="40px"} Material UI
+- ![Supabase](https://appwrite.io/assets/logomark/logo.svg){:height="40px" width="40px"} Supabase
+- ![Tailwind CSS](https://appwrite.io/assets/logomark/logo.svg){:height="40px" width="40px"} Tailwind CSS
+
   
 ### Backend
 - Node.js, Express.js, MongoDB, MySQL
