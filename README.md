@@ -47,7 +47,7 @@ KEYMOMENTUM is continuously evolving, with new features and improvements being a
 
 #### Screenshots
 ![Screenshot 1](https://cdn.hashnode.com/res/hashnode/image/upload/v1702448102257/88a7c535-c22b-4da2-a23a-ab5a7b8572b4.png?auto=compress,format&format=webp)
-![Screenshot 2](https://res.cloudinary.com/dxraggwp4/image/upload/v1702274295/KEYMOMENTUM/screenshot2.png)
+![Screenshot 2](https://cdn.hashnode.com/res/hashnode/image/upload/v1702448080199/ffb2396d-40ea-4e9d-a7da-d6671d0173d1.png?auto=compress,format&format=webp)
 
 ### StarBoard v1.0.0
 ![StarBoard Logo](https://res.cloudinary.com/dxraggwp4/image/upload/v1709318642/StarBoard/kw3rspovlmfugsjhbrst.png)
