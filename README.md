@@ -116,7 +116,10 @@ StarBoard is a productivity management tool designed to help you effortlessly or
 ### Frontend
 - ![React.js](https://img.icons8.com/office/40/react.png) React.js
 - ![Svelte](https://img.icons8.com/doodle/48/svetle.png) Svelte
-- Svelte, Next.js, Firebase, Appwrite, Material UI, Supabase, Tailwind CSS
+- ![Svelte](https://img.icons8.com/color/48/nextjs.png) Next.js
+- ![Svelte](https://img.icons8.com/color/48/firebase.png) Firebase
+- ![Svelte](https://appwrite.io/assets/logomark/logo.svg) Appwrite
+- Material UI, Supabase, Tailwind CSS
   
 ### Backend
 - Node.js, Express.js, MongoDB, MySQL
