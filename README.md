@@ -24,37 +24,30 @@ Enthusiastic final-year B.Tech student eager to take on innovative and challengi
 - [Link to project](https://dev.to/joeljaison394/librify-modern-library-management-with-refine-42bg)
 
 ### KeyMomentum 🚀
-
 ![KEYMOMENTUM Logo](https://res.cloudinary.com/dxraggwp4/image/upload/v1702274295/KEYMOMENTUM/Github-KEYMOMENTUM-logo_sjn5yf.png)
 
 KEYMOMENTUM is an exciting typing speed checking project designed to elevate your typing skills while providing an engaging and challenging experience.
 
-## Key Features
-
+#### Key Features
 - 🎯 **Speed Challenges:** Test your typing speed with exciting challenges tailored for all skill levels.
 - 🚥 **Multiple Difficulty Levels:** Choose from various difficulty levels to match your typing prowess.
 - 🌐 **Real-time Feedback:** Receive instant feedback on accuracy and words per minute (WPM).
 - 🎨 **Interactive Interface:** Immerse yourself in a visually appealing and user-friendly typing environment.
 
-## Technologies Used
-
+#### Technologies Used
 - React.js
 - TypeScript
 - Tailwind CSS
 
-## Deployment
-
+#### Deployment
 The project is deployed using Vercel. You can access it [here](https://keymomentum.vercel.app/).
 
-## Additional Information
-
+#### Additional Information
 KEYMOMENTUM is continuously evolving, with new features and improvements being added regularly. Stay tuned for updates!
 
-## Screenshots
-
+#### Screenshots
 ![Screenshot 1](https://res.cloudinary.com/dxraggwp4/image/upload/v1702274295/KEYMOMENTUM/screenshot1.png)
 ![Screenshot 2](https://res.cloudinary.com/dxraggwp4/image/upload/v1702274295/KEYMOMENTUM/screenshot2.png)
-
 
 ## Education
 - Bachelor of Engineering in Computer Science
@@ -92,3 +85,4 @@ KEYMOMENTUM is continuously evolving, with new features and improvements being a
 ## Certifications
 - Responsive Web Design from freeCodeCamp
 - MongoDB CRUD Operations from MongoDB University
+
