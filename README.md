@@ -120,8 +120,8 @@ StarBoard is a productivity management tool designed to help you effortlessly or
 - ![Firebase](https://img.icons8.com/color/40/firebase.png){:height="40px" width="40px"} Firebase
 - ![Appwrite](https://appwrite.io/assets/logomark/logo.svg){:height="40px" width="40px"} Appwrite
 - ![Material UI](https://static-00.iconduck.com/assets.00/material-ui-icon-512x406-fhnu85xg.png){:height="40px" width="40px"} Material UI
-- ![Supabase](https://appwrite.io/assets/logomark/logo.svg){:height="40px" width="40px"} Supabase
-- ![Tailwind CSS](https://appwrite.io/assets/logomark/logo.svg){:height="40px" width="40px"} Tailwind CSS
+- ![Supabase](https://res.cloudinary.com/dmqus2vrc/image/upload/v1715020458/audio/github/supabase-logo-icon_ar4jod.png){:height="40px" width="40px"} Supabase
+- ![Tailwind CSS](https://img.icons8.com/color/48/tailwind_css.png){:height="40px" width="40px"} Tailwind CSS
 
   
 ### Backend
