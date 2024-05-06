@@ -46,7 +46,7 @@ The project is deployed using Vercel. You can access it [here](https://keymoment
 KEYMOMENTUM is continuously evolving, with new features and improvements being added regularly. Stay tuned for updates!
 
 #### Screenshots
-![Screenshot 1](https://res.cloudinary.com/dxraggwp4/image/upload/v1702274295/KEYMOMENTUM/screenshot1.png)
+![Screenshot 1](https://cdn.hashnode.com/res/hashnode/image/upload/v1702448102257/88a7c535-c22b-4da2-a23a-ab5a7b8572b4.png?auto=compress,format&format=webp)
 ![Screenshot 2](https://res.cloudinary.com/dxraggwp4/image/upload/v1702274295/KEYMOMENTUM/screenshot2.png)
 
 ### StarBoard v1.0.0
