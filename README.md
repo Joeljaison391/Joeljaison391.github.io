@@ -119,6 +119,9 @@ StarBoard is a productivity management tool designed to help you effortlessly or
 - ![Svelte](https://img.icons8.com/color/48/nextjs.png) Next.js
 - ![Svelte](https://img.icons8.com/color/48/firebase.png) Firebase
 - ![Svelte](https://appwrite.io/assets/logomark/logo.svg) Appwrite
+- ![Svelte](https://static-00.iconduck.com/assets.00/material-ui-icon-512x406-fhnu85xg.png) Material UI
+- ![Svelte](https://appwrite.io/assets/logomark/logo.svg) Appwrite
+- ![Svelte](https://appwrite.io/assets/logomark/logo.svg) Appwrite
 - Material UI, Supabase, Tailwind CSS
   
 ### Backend
