@@ -4,9 +4,9 @@
 
 ## Contact
 - Phone: +91 7558884238
-- Email: joeljaison394@gmail.com
-- LinkedIn: [linkedin.com/in/joeljaison391](linkedin.com/in/joeljaison391)
-- GitHub: [github.com/JoelJaison394](github.com/JoelJaison394)
+- Email: [joeljaison394@gmail.com](mailto:joeljaison394@gmail.com)
+- LinkedIn: [linkedin.com/in/joeljaison391](https://linkedin.com/in/joeljaison391)
+- GitHub: [github.com/JoelJaison394](https://github.com/JoelJaison394)
 
 ---
 
@@ -17,131 +17,107 @@ Enthusiastic final-year B.Tech student eager to take on innovative and challengi
 
 ## Projects
 
-### MedCare Web App - Backend
-- Application used to track and store sensitive medical records for easy access during emergency situations.
-- Technologies: Node.js, Express.js, MongoDB, Prisma, Pangea APIs.
-- Winner of Most Liked Project in Devpost Project Showcase at Securathon Hackathon 2023.
-- [Link to project](https://medcare-woad.vercel.app/)
+### GeeksforGeeks Profile API
+- **Description:** Provides an API to fetch profile details of users on GeeksforGeeks, including name, username, profile picture, rank, scores, institution, and the number of problems solved. It also supports generating and downloading a DSA card for users.
+- **Technologies:** Node.js, Express.js, Cheerio, Axios.
+- **[GitHub Link](https://github.com/Joeljaison391/GeeksforGeeks-Profile-API)**
+- **[Live Project](https://worktrack.azurewebsites.net/)**
+
+#### Screenshot
+![Screenshot](https://res.cloudinary.com/dxraggwp4/image/upload/v1735744344/GFGAPI/se174te20347gyupwmqr.png)
+
+---
+
+### Downloads Organizer
+- **Description:** A Rust application designed to automate organizing downloads by moving files to appropriate directories based on their extensions.
+- **Technologies:** Rust, Crossbeam, Notify, Serde.
+- **[GitHub Link](https://github.com/Joeljaison391/Downloads-Organizer)**
+
+#### Screenshot
+![Screenshot](https://camo.githubusercontent.com/065a7119c5bae1967d9d7237af6da1a644332e96bd8d6cbb69d13981208d342f/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6478726167677770342f696d6167652f75706c6f61642f76313733353134333630382f446f776e6c6f61644f7267616e697a65722f7063686f6c776a6c7a7168697430666e357962302e706e67)
+
+---
+
+### StarBoard
+- **Description:** A task management application built with Rust and Tauri. It allows users to organize tasks into pages, track completion statuses, and manage their workload efficiently.
+- **Technologies:** Rust, Tauri, React.js, Tailwind CSS.
+- **[GitHub Link](https://github.com/JoelJaison394/StarBoard)**
 
 #### Screenshots
-![Screenshot 1](https://res.cloudinary.com/practicaldev/image/fetch/s--Hd6k-zFe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cydpu5xrlnma69wfwzxe.png)
-![Screenshot 2](https://res.cloudinary.com/practicaldev/image/fetch/s--nZAPBSIs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8or15c7i1za2x4buxvmg.png)
-![Screenshot 2](https://res.cloudinary.com/practicaldev/image/fetch/s--QgcnsCTU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/re9wc0zc7yu1riejgi2j.png)
+![Screenshot 1](https://res.cloudinary.com/dxraggwp4/image/upload/v1709318505/StarBoard/panut0n6rrqslegnftwy.png)
+![Screenshot 2](https://res.cloudinary.com/dxraggwp4/image/upload/v1709318505/StarBoard/sevahvi8iiwiulli2x4k.png)
 
-### Librify
-- Library management application to keep track of books, stocks, and other details of a library.
-- Technologies: Refine, TypeScript, Tailwind CSS, Material UI, Supabase.
-- Top 10 Runner-up project at Refine Hackathon 2023.
-- [Link to project](https://dev.to/joeljaison394/librify-modern-library-management-with-refine-42bg)
+---
+
+### AI Matchmaker
+- **Description:** An interactive, retro-inspired chat game where users try to "woo" an AI with creativity, humor, and charm. This project was built for the Useless Hackathon hosted by ThinkerHub.
+- **Technologies:** React.js, OpenAI API, Retro Design.
+- **[GitHub Link](https://github.com/Joeljaison391/Propose-Your-AI)**
+- **[Live Project](https://propose-your-ai.vercel.app/)**
 
 #### Screenshots
-![Screenshot 1](https://cdn.hashnode.com/res/hashnode/image/upload/v1702448102257/88a7c535-c22b-4da2-a23a-ab5a7b8572b4.png?auto=compress,format&format=webp)
-![Screenshot 2](https://cdn.hashnode.com/res/hashnode/image/upload/v1702448080199/ffb2396d-40ea-4e9d-a7da-d6671d0173d1.png?auto=compress,format&format=webp)
+![Screenshot 1](https://res.cloudinary.com/dxraggwp4/image/upload/v1730584432/omfx1pzwgjtccumxezzu.png)
+![Screenshot 2](https://res.cloudinary.com/dxraggwp4/image/upload/v1730584432/fr92cbisejdtzi3tmduq.png)
+
+---
 
 ### KeyMomentum 🚀
-![KEYMOMENTUM Logo](https://res.cloudinary.com/dxraggwp4/image/upload/v1702274295/KEYMOMENTUM/Github-KEYMOMENTUM-logo_sjn5yf.png)
-
-KEYMOMENTUM is an exciting typing speed checking project designed to elevate your typing skills while providing an engaging and challenging experience.
-
-#### Key Features
-- 🎯 **Speed Challenges:** Test your typing speed with exciting challenges tailored for all skill levels.
-- 🚥 **Multiple Difficulty Levels:** Choose from various difficulty levels to match your typing prowess.
-- 🌐 **Real-time Feedback:** Receive instant feedback on accuracy and words per minute (WPM).
-- 🎨 **Interactive Interface:** Immerse yourself in a visually appealing and user-friendly typing environment.
-
-#### Technologies Used
-- React.js
-- TypeScript
-- Tailwind CSS
-
-#### Deployment
-The project is deployed using Vercel. You can access it [here](https://keymomentum.vercel.app/).
-
-#### Additional Information
-KEYMOMENTUM is continuously evolving, with new features and improvements being added regularly. Stay tuned for updates!
+- **Description:** A typing speed checking project designed to enhance typing skills with engaging challenges.
+- **Technologies:** React.js, TypeScript, Tailwind CSS.
+- **[Deployed Project](https://keymomentum.vercel.app/)**
 
 #### Screenshots
-![Screenshot 1](https://cdn.hashnode.com/res/hashnode/image/upload/v1702448102257/88a7c535-c22b-4da2-a23a-ab5a7b8572b4.png?auto=compress,format&format=webp)
-![Screenshot 2](https://cdn.hashnode.com/res/hashnode/image/upload/v1702448080199/ffb2396d-40ea-4e9d-a7da-d6671d0173d1.png?auto=compress,format&format=webp)
-
-### StarBoard v1.0.0
-![StarBoard Logo](https://res.cloudinary.com/dxraggwp4/image/upload/v1709318642/StarBoard/kw3rspovlmfugsjhbrst.png)
-
-StarBoard is a productivity management tool designed to help you effortlessly organize your workload and boost your productivity. The application allows you to create pages and manage tasks within those pages, providing a streamlined way to keep track of your projects.
-
-#### Key Features
-- **Page Management:**
-  - Create, edit, and delete pages with customizable background colors.
-  
-- **Task Management:**
-  - Add, edit, and delete tasks within each page.
-  - Track task completion status (Pending, Started Working, Completed, Not Started).
-  
-- **User-Friendly Interface:**
-  - Intuitive sidebar for easy navigation.
-  - Drag-and-drop tasks between different completion status columns.
-
-#### Screenshots
-![StarBoard Screenshot](https://res.cloudinary.com/dxraggwp4/image/upload/v1709318505/StarBoard/panut0n6rrqslegnftwy.png)
-![StarBoard Screenshot](https://res.cloudinary.com/dxraggwp4/image/upload/v1709318505/StarBoard/sevahvi8iiwiulli2x4k.png)
-![StarBoard Screenshot](https://res.cloudinary.com/dxraggwp4/image/upload/v1709318505/StarBoard/clf4t5twwmnaxfcntg4s.png)
-![StarBoard Screenshot](https://res.cloudinary.com/dxraggwp4/image/upload/v1709318505/StarBoard/li2yxogni3fxecxz4ngq.png)
+![Screenshot 1](https://cdn.hashnode.com/res/hashnode/image/upload/v1702448102257/88a7c535-c22b-4da2-a23a-ab5a7b8572b4.png)
+![Screenshot 2](https://cdn.hashnode.com/res/hashnode/image/upload/v1702448080199/ffb2396d-40ea-4e9d-a7da-d6671d0173d1.png)
 
 ---
 
 ## Education
-- Bachelor of Engineering in Computer Science
-- Sahrdaya College Of Engineering and Technology, 2021 - 2025
-- CGPA: 7.48
+- **Bachelor of Engineering in Computer Science**  
+  Sahrdaya College Of Engineering and Technology, 2021 - 2025  
+  CGPA: 7.48  
 
 ---
 
 ## Experience
 
 ### Inclusys Org Foundation - Internship
-- May 2023 - Jun 2023
-- Role: Alexa Skill Developer
-- Developed an innovative Alexa skill aimed at enhancing memory and cognitive abilities.
-- Collaborated with a team of developers and researchers to create a user-friendly and engaging interface with intuitive voice interactions.
+- **Duration:** May 2023 - Jun 2023
+- **Role:** Alexa Skill Developer
+- **Responsibilities:**
+  - Developed Alexa skills to enhance memory and cognitive abilities.
+  - Collaborated with researchers to create a user-friendly interface for older adults.
+
+---
 
 ### GDSC Sahrdaya Core Team
-- Aug 2023 - Dec 2024
-- Role: Tech Lead
-- Managed the technical aspects of the club.
+- **Duration:** Aug 2023 - Dec 2024
+- **Role:** Tech Lead
+- **Responsibilities:**  
+  - Managed technical aspects of the club's activities and events.
 
 ---
 
 ## Skills
 
 ### Frontend
-- ![React.js](https://img.icons8.com/office/40/react.png){:height="40px" width="40px"} React.js
-- ![Svelte](https://img.icons8.com/doodle/40/svetle.png){:height="40px" width="40px"} Svelte
-- ![Next.js](https://img.icons8.com/color/40/nextjs.png){:height="40px" width="40px"} Next.js
-- ![Firebase](https://img.icons8.com/color/40/firebase.png){:height="40px" width="40px"} Firebase
-- ![Appwrite](https://appwrite.io/assets/logomark/logo.svg){:height="40px" width="40px"} Appwrite
-- ![Material UI](https://static-00.iconduck.com/assets.00/material-ui-icon-512x406-fhnu85xg.png){:height="40px" width="40px"} Material UI
-- ![Supabase](https://res.cloudinary.com/dmqus2vrc/image/upload/v1715020458/audio/github/supabase-logo-icon_ar4jod.png){:height="40px" width="40px"} Supabase
-- ![Tailwind CSS](https://img.icons8.com/color/48/tailwind_css.png){:height="40px" width="40px"} Tailwind CSS
+- React.js, Next.js, Svelte, Material UI, Tailwind CSS, Supabase  
 
-  
 ### Backend
-- Node.js, Express.js, MongoDB, MySQL
-  
+- Node.js, Express.js, MongoDB  
+
 ### Cloud
-- Azure
-  
-### Other
-- REST API, Git, GitHub, VS Code Extension, Telegram Bot, Figma, Chrome Extension
+- Azure  
 
 ---
 
 ## Interests
-- Blogging: [dev.to/joeljaison394](dev.to/joeljaison394)
-- Teaching: Postman student expert
-- Drawing
+- Blogging: [dev.to/joeljaison394](https://dev.to/joeljaison394)  
+- Teaching: Postman Student Expert  
+- Drawing  
 
 ---
 
 ## Certifications
-- Responsive Web Design from freeCodeCamp
-- MongoDB CRUD Operations from MongoDB University
+- Responsive Web Design - freeCodeCamp  
+- MongoDB CRUD Operations - MongoDB University  
