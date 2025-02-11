@@ -1,22 +1,5 @@
-# Joel Jaison
----
-
-## Contact
-- Phone: +91 7558884238
-- Email: [joeljaison394@gmail.com](mailto:joeljaison394@gmail.com)
-- LinkedIn: [linkedin.com/in/joeljaison391](https://linkedin.com/in/joeljaison391)
-- GitHub: [github.com/JoelJaison394](https://github.com/JoelJaison394)
-
----
-
 ## Objective
 Enthusiastic final-year B.Tech student eager to take on innovative and challenging projects.
-
----
-
----
-## Organization
-![IBM Logo](https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg)
 
 ---
 
