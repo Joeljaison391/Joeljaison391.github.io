@@ -1,6 +1,10 @@
 # Joel Jaison
+![Profile] ()
+---
 
 ---
+## Organization
+![IBM Logo](https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg)
 
 ## Contact
 - Phone: +91 7558884238
@@ -80,6 +84,24 @@ Enthusiastic final-year B.Tech student eager to take on innovative and challengi
 ---
 
 ## Experience
+
+### Software Developer Intern, IBM 
+- **Duration:** January 2025 - Present
+- **Role:* Software Developer Intern
+- **Responsibilities:**
+  - Collaborating with cross-functional teams to develop and implement software solutions.
+  - Participating in code reviews and contributing to the optimization of existing systems.
+
+---
+
+### Frontend Web Developer, Flora Extracts
+- **Duration:** February 2024 - June 2024
+- **Role:** Frontend Web Developer
+- **Responsibilities:**
+  - Designed and implemented responsive web interfaces using React, Tailwind CSS, and Framer Motion.
+  - Improved user experience through interactive and visually appealing frontend components.
+
+---
 
 ### Inclusys Org Foundation - Internship
 - **Duration:** May 2023 - Jun 2023
