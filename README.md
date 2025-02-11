@@ -71,7 +71,7 @@ Enthusiastic final-year B.Tech student eager to take on innovative and challengi
 
 ### Software Developer Intern, IBM 
 - **Duration:** January 2025 - Present
-- **Role:* Software Developer Intern
+- **Role:** Software Developer Intern
 - **Responsibilities:**
   - Collaborating with cross-functional teams to develop and implement software solutions.
   - Participating in code reviews and contributing to the optimization of existing systems.
