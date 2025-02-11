@@ -1,10 +1,5 @@
 # Joel Jaison
-![Profile] ()
 ---
-
----
-## Organization
-![IBM Logo](https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg)
 
 ## Contact
 - Phone: +91 7558884238
@@ -16,6 +11,12 @@
 
 ## Objective
 Enthusiastic final-year B.Tech student eager to take on innovative and challenging projects.
+
+---
+
+---
+## Organization
+![IBM Logo](https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg)
 
 ---
 
