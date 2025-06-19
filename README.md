@@ -1,7 +1,13 @@
 ## Objective
-Enthusiastic final-year B.Tech student eager to take on innovative and challenging projects.
+Recent B.Tech graduate eager to take on innovative and challenging projects.
 
 ---
+
+## Achievements
+- First Prize at BeachHack Season 6 for "LawLens AI."
+- Final-year project recognized among best in college.
+- 1st place (Web3 track) at IEEE Sahrdaya’s Infinia hackathon.
+- 1st Runner-Up at IBM Watsonx Challenge for "SoulSync."
 
 ## Projects
 
@@ -62,7 +68,7 @@ Enthusiastic final-year B.Tech student eager to take on innovative and challengi
 
 ## Education
 - **Bachelor of Engineering in Computer Science**  
-  Sahrdaya College Of Engineering and Technology, 2021 - 2025  
+  Sahrdaya College of Engineering & Technology, 2021 - 2025 (Graduated 2025)  
   CGPA: 7.48  
 
 ---
