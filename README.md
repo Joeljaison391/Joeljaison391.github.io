@@ -1,5 +1,11 @@
-## Objective
-Enthusiastic final-year B.Tech student eager to take on innovative and challenging projects.
+## Journey So Far
+I am a Computer Science graduate driven by curiosity, creativity, and a desire to build meaningful tech solutions. My journey began with hands-on projects ranging from building RESTful APIs and desktop apps in Rust to crafting smooth user interfaces with React and Tailwind CSS.
+
+I have gained practical experience through internships at IBM, Flora Extracts, and Inclusys while actively contributing to the tech community as a Tech Lead in GDSC Sahrdaya and a Core Team Member of IEEE SB Sahrdaya. These leadership roles sharpened my technical, organizational, and collaborative skills.
+
+I have participated in several online and offline hackathons, some of which I have won and some I have not, but each one taught me the value of teamwork, the power of brainstorming innovative ideas, and the thrill of late-night coding sprints under pressure.
+
+Outside of development, I enjoy sharing knowledge through blogging on Dev.to, mentoring as a Postman Student Expert, and sketching as a creative outlet. I am now eager to bring this energy, experience, and enthusiasm to impactful teams and real-world challenges.
 
 ---
 
@@ -69,9 +75,17 @@ Enthusiastic final-year B.Tech student eager to take on innovative and challengi
 
 ## Experience
 
+### Software Developer, IBM
+- **Duration:** July 2025 - present
+- **Role:** Frontend Developer
+- **Responsibilities:**
+  - Developed and maintained enterprise-grade React components for IBM Watson Knowledge Catalog's Governance UI using Carbon Design System.
+  - Implemented accessibility enhancements across multiple modules by aligning components to WCAG 2.1 AA standards and conducting manual audits.
+  - Collaborated with UX designers and backend developers to deliver cohesive, responsive, and consistent user experiences.
+
 ### Software Developer Intern, IBM 
-- **Duration:** January 2025 - Present
-- **Role:** Software Developer Intern
+- **Duration:** January 2025 - June 2025
+- **Role:** Backend Developer 
 - **Responsibilities:**
   - Collaborating with cross-functional teams to develop and implement software solutions.
   - Participating in code reviews and contributing to the optimization of existing systems.
@@ -107,23 +121,19 @@ Enthusiastic final-year B.Tech student eager to take on innovative and challengi
 ## Skills
 
 ### Frontend
-- React.js, Next.js, Svelte, Material UI, Tailwind CSS, Supabase  
+- React.js, Next.js, Svelte, Redux, Tailwind CSS, Material UI, Carbon Design System
 
 ### Backend
-- Node.js, Express.js, MongoDB  
+- Node.js, Spring Boot, Flask
 
-### Cloud
-- Azure  
+### Cloud & Hosting
+- Microsoft Azure, AWS, Vercel, Netlify
+
+### Other Technologies
+- Rust, Tauri, Docker, JUnit, Alexa Skills Kit
 
 ---
 
 ## Interests
 - Blogging: [dev.to/joeljaison394](https://dev.to/joeljaison394)  
-- Teaching: Postman Student Expert  
 - Drawing  
-
----
-
-## Certifications
-- Responsive Web Design - freeCodeCamp  
-- MongoDB CRUD Operations - MongoDB University  
