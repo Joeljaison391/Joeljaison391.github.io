@@ -3,3 +3,17 @@ logo: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAQEBAQEBAWEBA
 description: Software Developer at IBM / IBM Knowledge Catalog
 show_downloads: false
 theme: jekyll-theme-minimal
+url: "https://joeljaison391.github.io/"
+author:
+  name: Joel Jaison
+  email: joeljaison394@gmail.com
+lang: en-US
+
+plugins:
+  - jekyll-seo-tag
+
+github:
+  is_project_page: false
+  is_user_page: true
+  owner_url: https://github.com/Joeljaison391
+  repository_url: https://github.com/Joeljaison391/Joeljaison391.github.io
