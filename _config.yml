@@ -11,6 +11,7 @@ lang: en-US
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 github:
   is_project_page: false
