@@ -16,6 +16,12 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
 github:
   is_project_page: false
   is_user_page: true
