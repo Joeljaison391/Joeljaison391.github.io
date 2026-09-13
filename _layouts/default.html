@@ -5,11 +5,33 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ site.title }} - Software Developer Portfolio</title>
+
+    <!-- Primary SEO -->
+    <title>Joel Jaison | Generative AI Developer · IBM · Kerala, India</title>
+    <meta name="description" content="Joel Jaison — Generative AI Developer at IBM, Kochi. Builds production multi-agent LLM systems, RAG pipelines, LLM guardrails, and backend services with Python, FastAPI, LangChain, and Watsonx. BeachHack 2025 winner.">
+    <meta name="keywords" content="Joel Jaison, Generative AI Developer Kerala, AI Engineer India, LangChain developer, LangGraph, RAG pipeline, Watsonx developer, IBM developer Kerala, FastAPI Python developer, multi-agent LLM, software engineer Kochi, software developer Kerala, Joel Jaison IBM, BeachHack winner">
+    <meta name="author" content="Joel Jaison">
+    <link rel="canonical" href="https://joeljaison391.github.io/">
+
+    <!-- Open Graph / LinkedIn / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://joeljaison391.github.io/">
+    <meta property="og:title" content="Joel Jaison | Generative AI Developer · IBM · Kerala, India">
+    <meta property="og:description" content="Generative AI Developer at IBM building production multi-agent LLM systems, RAG pipelines, and LLM guardrails with Python, FastAPI, LangChain, and Watsonx. BeachHack 2025 winner.">
+    <meta property="og:image" content="https://joeljaison.com/profile.webp">
+    <meta property="og:site_name" content="Joel Jaison Portfolio">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Joel Jaison | Generative AI Developer · IBM">
+    <meta name="twitter:description" content="Generative AI Developer at IBM building production multi-agent LLM systems, RAG pipelines, and LLM guardrails. BeachHack 2025 winner.">
+    <meta name="twitter:image" content="https://joeljaison.com/profile.webp">
+
+    <!-- Favicons -->
     <link rel="icon" type="image/png" href="{{ "/assets/favicon-32x32.png" | relative_url }}">
     <link rel="icon" type="image/svg+xml" href="{{ "/assets/favicon.ico" | relative_url }}">
- 
-
+    <link rel="apple-touch-icon" href="{{ "/assets/apple-touch-icon.png" | relative_url }}">
+    <link rel="manifest" href="{{ "/assets/site.webmanifest" | relative_url }}">
 
     {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
@@ -24,7 +46,7 @@
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <img src="{{site.logo | relative_url}}" alt="Joel Jaison profile photo" />
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
@@ -45,40 +67,42 @@
         </ul>
         {% endif %}
 
-        
-          
-
         <!-- Contact Section -->
         <h2>Contact</h2>
         <ul>
-          <li>Phone: +91 7558884238</li>
-          <li>Email: <a href="mailto:joeljaison394@gmail.com">joeljaison394@gmail.com</a></li>
-          <li>LinkedIn: <a href="https://linkedin.com/in/joeljaison391">linkedin.com/in/joeljaison391</a></li>
-          <li>GitHub: <a href="https://github.com/JoelJaison394">github.com/JoelJaison394</a></li>
+          <li>📞 <a href="tel:+917012867391">+91 7012867391</a></li>
+          <li>✉️ <a href="mailto:joeljaison394@gmail.com">joeljaison394@gmail.com</a></li>
+          <li>💼 <a href="https://linkedin.com/in/joeljaison391" rel="noopener noreferrer">linkedin.com/in/joeljaison391</a></li>
+          <li>🐙 <a href="https://github.com/JoelJaison394" rel="noopener noreferrer">github.com/JoelJaison394</a></li>
+          <li>🌐 <a href="https://joeljaison.com" rel="noopener noreferrer">joeljaison.com</a></li>
         </ul>
 
         <!-- Organization Section -->
-        <h2>Organization</h2>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Logo" width="200">
+        <h2>Currently At</h2>
+        <a href="https://www.ibm.com" rel="noopener noreferrer" aria-label="IBM">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Logo" width="120" style="margin-bottom: 8px;">
+        </a>
+        <p style="margin: 0; font-size: 13px; color: #555;">Generative AI Developer<br>Watsonx Orchestrate</p>
 
-        <a href="{{ site.url }}/Joel_Jaison_2025.pdf" download="Joel_Jaison_2025.pdf">
-            <button style="
-              margin-top: 5px;
-              background-color: #1660b0;
-              color: white;
-              padding: 10px 20px;
-              font-size: 16px;
-              border: none;
-              border-radius: 5px;
-              cursor: pointer;
-              text-decoration: none;
-            ">
-              📄 Download Resume
-            </button>
-          </a>
+        <!-- Resume Download -->
+        <a href="{{ site.url }}/Joel_Jaison_Resume_2026.pdf" download="Joel_Jaison_Resume_2026.pdf" aria-label="Download Joel Jaison's Resume">
+          <button style="
+            margin-top: 12px;
+            background-color: #1660b0;
+            color: white;
+            padding: 10px 20px;
+            font-size: 15px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+          ">
+            📄 Download Resume
+          </button>
+        </a>
 
       </header>
-      
+
       <section>
         {{ content }}
       </section>
@@ -87,6 +111,7 @@
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
+        <p style="font-size: 12px; color: #888;">© 2026 Joel Jaison · <a href="https://joeljaison.com">joeljaison.com</a></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
