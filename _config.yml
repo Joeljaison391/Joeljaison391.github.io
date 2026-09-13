@@ -6,14 +6,13 @@ description: >-
   BeachHack 2025 winner. Open to Senior SDE / AI Engineer roles.
 show_downloads: false
 theme: jekyll-theme-minimal
-url: "https://joeljaison391.github.io/"
+url: "https://joeljaison391.github.io"
 author:
   name: Joel Jaison
   email: joeljaison394@gmail.com
 lang: en-US
 
 plugins:
-  - jekyll-seo-tag
   - jekyll-sitemap
 
 defaults:

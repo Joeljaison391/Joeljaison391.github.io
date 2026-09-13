@@ -1,8 +1,8 @@
 ## About Me
 
-I'm a **Generative AI Developer** at IBM building production-grade multi-agent systems, RAG pipelines, and LLM guardrails on cloud infrastructure. My work spans agentic orchestration (LangChain, LangGraph, A2A), backend services (Python, FastAPI), and observability tooling — all shipped on OpenShift with Jenkins CI/CD.
+**Joel Jaison** is a **Generative AI Developer at IBM**, Kochi, building production-grade multi-agent systems, RAG pipelines, and LLM guardrails on cloud infrastructure. My work spans agentic orchestration (LangChain, LangGraph, A2A), backend services (Python, FastAPI), and observability tooling — all shipped on OpenShift with Jenkins CI/CD.
 
-I graduated in Computer Science Engineering from Sahrdaya College of Engineering & Technology (CGPA: 7.6) and have been hands-on with AI-first products since my internship days. Beyond the day job, I've won hackathons (BeachHack 2025 🥇, IBM GenAI Conclave 2024 🥈, Global Game Jam Kerala 2026 🥈), written technical blogs on [Dev.to](https://dev.to/joeljaison394), and enjoy sketching as a creative outlet.
+I graduated in Computer Science Engineering from **Sahrdaya College of Engineering & Technology** (CGPA: 7.6) and have been hands-on with AI-first products since my internship days. Beyond the day job, I've won hackathons (BeachHack 2025 🥇, IBM GenAI Conclave 2024 🥈, Global Game Jam Kerala 2026 🥈), written technical blogs on [Dev.to](https://dev.to/joeljaison394), and enjoy sketching as a creative outlet.
 
 ## Experience
 
